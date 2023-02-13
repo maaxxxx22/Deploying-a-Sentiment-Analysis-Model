@@ -14,3 +14,6 @@ General outline for SageMaker projects using a notebook instance.
 5. Test the trained model (typically using a batch transform job).
 6. Deploy the trained model.
 7. Use the deployed model.
+
+# Result (Web App)
+![sentiment analysis app pic](https://user-images.githubusercontent.com/83828200/218384457-b4252cd2-db61-4e37-9af3-9d6355ab7402.PNG)
